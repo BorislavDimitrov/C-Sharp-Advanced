@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.exe
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.deps.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.genruntimeconfig.cache

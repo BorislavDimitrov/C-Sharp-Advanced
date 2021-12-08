@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.exe
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.deps.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.genruntimeconfig.cache
