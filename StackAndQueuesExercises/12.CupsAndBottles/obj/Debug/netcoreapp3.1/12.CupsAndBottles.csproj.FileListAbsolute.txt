@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.exe
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.deps.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.genruntimeconfig.cache

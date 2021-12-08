@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\bin\Debug\netcoreapp3.1\08.BalancedParenthese.exe
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\bin\Debug\netcoreapp3.1\08.BalancedParenthese.deps.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\bin\Debug\netcoreapp3.1\08.BalancedParenthese.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\bin\Debug\netcoreapp3.1\08.BalancedParenthese.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\bin\Debug\netcoreapp3.1\08.BalancedParenthese.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\bin\Debug\netcoreapp3.1\08.BalancedParenthese.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\08.BalancedParenthese\obj\Debug\netcoreapp3.1\08.BalancedParenthese.genruntimeconfig.cache

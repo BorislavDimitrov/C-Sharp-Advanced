@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\bin\Debug\netcoreapp3.1\10.CrossRoads.exe
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\bin\Debug\netcoreapp3.1\10.CrossRoads.deps.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\bin\Debug\netcoreapp3.1\10.CrossRoads.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\bin\Debug\netcoreapp3.1\10.CrossRoads.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\bin\Debug\netcoreapp3.1\10.CrossRoads.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\bin\Debug\netcoreapp3.1\10.CrossRoads.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\10.CrossRoads\obj\Debug\netcoreapp3.1\10.CrossRoads.genruntimeconfig.cache

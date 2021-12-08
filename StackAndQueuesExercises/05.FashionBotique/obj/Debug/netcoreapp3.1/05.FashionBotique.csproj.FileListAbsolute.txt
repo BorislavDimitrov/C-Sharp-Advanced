@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\bin\Debug\netcoreapp3.1\05.FashionBotique.exe
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\bin\Debug\netcoreapp3.1\05.FashionBotique.deps.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\bin\Debug\netcoreapp3.1\05.FashionBotique.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\bin\Debug\netcoreapp3.1\05.FashionBotique.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\bin\Debug\netcoreapp3.1\05.FashionBotique.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\bin\Debug\netcoreapp3.1\05.FashionBotique.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\05.FashionBotique\obj\Debug\netcoreapp3.1\05.FashionBotique.genruntimeconfig.cache

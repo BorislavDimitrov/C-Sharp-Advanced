@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.exe
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.deps.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.dll
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.pdb
+C:\Users\Borislav-PC\source\repos\StackAndQueuesExercises\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.genruntimeconfig.cache
