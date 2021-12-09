@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.exe
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.deps.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.genruntimeconfig.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\bin\Debug\netcoreapp3.1\06.JaggedArraysManipulator.exe
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\bin\Debug\netcoreapp3.1\06.JaggedArraysManipulator.deps.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\bin\Debug\netcoreapp3.1\06.JaggedArraysManipulator.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\bin\Debug\netcoreapp3.1\06.JaggedArraysManipulator.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\bin\Debug\netcoreapp3.1\06.JaggedArraysManipulator.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\bin\Debug\netcoreapp3.1\06.JaggedArraysManipulator.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.genruntimeconfig.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\06.JaggedArraysManipulator\obj\Debug\netcoreapp3.1\06.JaggedArraysManipulator.csproj.AssemblyReference.cache

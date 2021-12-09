@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\bin\Debug\netcoreapp3.1\01.DiagonalDifferences.exe
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\bin\Debug\netcoreapp3.1\01.DiagonalDifferences.deps.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\bin\Debug\netcoreapp3.1\01.DiagonalDifferences.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\bin\Debug\netcoreapp3.1\01.DiagonalDifferences.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\bin\Debug\netcoreapp3.1\01.DiagonalDifferences.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\bin\Debug\netcoreapp3.1\01.DiagonalDifferences.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\01.DiagonalDifferences\obj\Debug\netcoreapp3.1\01.DiagonalDifferences.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.exe
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.deps.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.dll
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.pdb
+C:\Users\Borislav-PC\source\repos\MultidimensionalArraysExercises\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.genruntimeconfig.cache
