@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.exe
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.deps.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\04.CitiesByContinentAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountries.genruntimeconfig.cache

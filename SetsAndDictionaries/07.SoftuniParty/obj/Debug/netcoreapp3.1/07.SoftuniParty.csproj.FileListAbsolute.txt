@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\bin\Debug\netcoreapp3.1\07.SoftuniParty.exe
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\bin\Debug\netcoreapp3.1\07.SoftuniParty.deps.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\bin\Debug\netcoreapp3.1\07.SoftuniParty.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\bin\Debug\netcoreapp3.1\07.SoftuniParty.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\bin\Debug\netcoreapp3.1\07.SoftuniParty.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\bin\Debug\netcoreapp3.1\07.SoftuniParty.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionaries\07.SoftuniParty\obj\Debug\netcoreapp3.1\07.SoftuniParty.genruntimeconfig.cache
