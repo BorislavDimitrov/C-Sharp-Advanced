@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\bin\Debug\netcoreapp3.1\07.TheVlogger.exe
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\bin\Debug\netcoreapp3.1\07.TheVlogger.deps.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\bin\Debug\netcoreapp3.1\07.TheVlogger.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\bin\Debug\netcoreapp3.1\07.TheVlogger.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\bin\Debug\netcoreapp3.1\07.TheVlogger.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\bin\Debug\netcoreapp3.1\07.TheVlogger.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\07.TheVlogger\obj\Debug\netcoreapp3.1\07.TheVlogger.genruntimeconfig.cache

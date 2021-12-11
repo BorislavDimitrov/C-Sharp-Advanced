@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.exe
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.deps.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.genruntimeconfig.cache

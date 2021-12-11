@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.exe
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.deps.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.genruntimeconfig.cache

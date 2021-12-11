@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\bin\Debug\netcoreapp3.1\03.PeriodictTable.exe
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\bin\Debug\netcoreapp3.1\03.PeriodictTable.deps.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\bin\Debug\netcoreapp3.1\03.PeriodictTable.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\bin\Debug\netcoreapp3.1\03.PeriodictTable.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\bin\Debug\netcoreapp3.1\03.PeriodictTable.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\bin\Debug\netcoreapp3.1\03.PeriodictTable.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.dll
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.pdb
+C:\Users\Borislav-PC\source\repos\SetsAndDictionariesExercises\03.PeriodictTable\obj\Debug\netcoreapp3.1\03.PeriodictTable.genruntimeconfig.cache
