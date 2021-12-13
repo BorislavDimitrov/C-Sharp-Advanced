@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.exe
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.deps.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.dll
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.pdb
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.dll
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.pdb
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.genruntimeconfig.cache

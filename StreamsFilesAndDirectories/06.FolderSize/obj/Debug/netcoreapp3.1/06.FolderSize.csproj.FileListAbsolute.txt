@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.exe
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.deps.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.dll
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.pdb
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.dll
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.pdb
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectories\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.genruntimeconfig.cache
