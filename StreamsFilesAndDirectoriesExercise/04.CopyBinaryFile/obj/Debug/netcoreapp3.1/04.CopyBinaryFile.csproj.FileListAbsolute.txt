@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.exe
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.deps.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.dll
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.pdb
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.dll
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.pdb
+C:\Users\Borislav-PC\source\repos\StreamsFilesAndDirectoriesExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.genruntimeconfig.cache
