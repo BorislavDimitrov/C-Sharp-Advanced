@@ -1,0 +1,13 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.genruntimeconfig.cache

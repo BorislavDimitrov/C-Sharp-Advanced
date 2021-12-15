@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\bin\Debug\netcoreapp3.1\HandMadeLINQFunctions.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\bin\Debug\netcoreapp3.1\HandMadeLINQFunctions.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\bin\Debug\netcoreapp3.1\HandMadeLINQFunctions.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\bin\Debug\netcoreapp3.1\HandMadeLINQFunctions.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\bin\Debug\netcoreapp3.1\HandMadeLINQFunctions.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\bin\Debug\netcoreapp3.1\HandMadeLINQFunctions.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgramming\HandMadeLINQFunctions\obj\Debug\netcoreapp3.1\HandMadeLINQFunctions.genruntimeconfig.cache
