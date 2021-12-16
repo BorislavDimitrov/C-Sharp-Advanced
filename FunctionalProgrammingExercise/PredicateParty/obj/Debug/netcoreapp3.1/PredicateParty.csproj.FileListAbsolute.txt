@@ -1,0 +1,13 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.genruntimeconfig.cache

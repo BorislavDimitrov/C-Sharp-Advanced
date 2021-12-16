@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.genruntimeconfig.cache

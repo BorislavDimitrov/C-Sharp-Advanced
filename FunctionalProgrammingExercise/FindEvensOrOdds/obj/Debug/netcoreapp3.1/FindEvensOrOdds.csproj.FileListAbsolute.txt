@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.genruntimeconfig.cache

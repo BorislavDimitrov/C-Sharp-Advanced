@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\ThePartyReservationFilterModule.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\ThePartyReservationFilterModule.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\ThePartyReservationFilterModule.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\ThePartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\ThePartyReservationFilterModule.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\ThePartyReservationFilterModule.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.genruntimeconfig.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\ThePartyReservationFilterModule.csproj.AssemblyReference.cache

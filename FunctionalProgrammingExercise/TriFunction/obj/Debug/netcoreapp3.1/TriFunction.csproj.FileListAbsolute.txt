@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.exe
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.deps.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.dll
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.pdb
+C:\Users\Borislav-PC\source\repos\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.genruntimeconfig.cache
